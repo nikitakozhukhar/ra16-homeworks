@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikitakozhukhar/ra16-homeworks/tree/main/components/store/static/css/main.a1901153.css",
+    "main.js": "/nikitakozhukhar/ra16-homeworks/tree/main/components/store/static/js/main.dbce3283.js",
+    "static/media/item-blue.jpg": "/nikitakozhukhar/ra16-homeworks/tree/main/components/store/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/nikitakozhukhar/ra16-homeworks/tree/main/components/store/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/nikitakozhukhar/ra16-homeworks/tree/main/components/store/index.html",
+    "main.a1901153.css.map": "/nikitakozhukhar/ra16-homeworks/tree/main/components/store/static/css/main.a1901153.css.map",
+    "main.dbce3283.js.map": "/nikitakozhukhar/ra16-homeworks/tree/main/components/store/static/js/main.dbce3283.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1901153.css",
+    "static/js/main.dbce3283.js"
+  ]
+}
